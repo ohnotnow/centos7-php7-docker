@@ -2,3 +2,5 @@
 
 WIP...
 
+See : https://hub.docker.com/r/uogsoe/centos7-php72/
+
