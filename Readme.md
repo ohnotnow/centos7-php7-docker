@@ -1,4 +1,4 @@
-# Basic docker file for CentOS 7, PHP 7.2 and Composer
+# Basic docker file for CentOS 7, PHP 7.2 and Composer. Useful for CI/testing purposes.
 
 WIP...
 
